@@ -1,0 +1,29 @@
+.body {
+    margin: 0;
+    background-color: #f6f6f6;
+}
+.topNav{
+    height: 50px;
+    position: sticky;
+    top:-1px;
+    margin: 0;
+    background-color: lightgrey;
+}
+.navigation{
+    display: inline-block;
+}
+.container{
+    display: flex;
+}
+.button {
+    padding: 15px;
+    width: 80px;
+    outline: 1px solid black;
+    display: inline-block;
+    text-align: center;
+}
+.left{
+    display: inline-block;
+    background-color: lightgray;
+    border: 1px solid black;
+}
